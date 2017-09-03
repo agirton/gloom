@@ -294,6 +294,22 @@
       }
     },
     {
+      "name": "Support primitive",
+      "scope":
+        "support.type.primitive, entity.name.type.entity.name.type.js.meta.type.annotation.js, entity.name.type.entity.name.type.js.meta.return.type.js",
+      "settings": {
+        "foreground": "#66D9EF"
+      }
+    },
+    {
+      "name": "Annotation Keyword",
+      "scope":
+        "keyword.operator.type.annotation, keyword.operator.optional, meta.return.type.js",
+      "settings": {
+        "foreground": "#7AA5FF"
+      }
+    },
+    {
       "name": "js variable readwrite",
       "scope":
         "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.node",
@@ -699,6 +715,13 @@
       "scope": "constant",
       "settings": {
         "foreground": "#AE81FF"
+      }
+    },
+    {
+      "name": "Import Constants",
+      "scope": "constant.language.import-export-all",
+      "settings": {
+        "foreground": "#7AA5FF"
       }
     },
     {
