@@ -1,0 +1,22 @@
+{
+  "name": "gloom",
+  "displayName": "Gloom",
+  "description": "A port of Atom's Gloom syntax theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "adamgirton",
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["syntax", "theme", "gloom", "vscode"],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gloom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gloom.json"
+      }
+    ]
+  }
+}
