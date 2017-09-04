@@ -2,7 +2,7 @@
   "name": "gloom",
   "displayName": "Gloom",
   "description": "A port of Atom's Gloom syntax theme for VS Code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "adamgirton",
   "bugs": {
     "url": "https://github.com/agirton/gloom/issues"
