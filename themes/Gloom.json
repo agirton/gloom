@@ -23,7 +23,7 @@
     "editor.editor.findMatchBackground": "#42557B",
     "editor.findMatchHighlightBackground": "#314365",
     "editor.wordHighlightBackground": "#484e5b",
-    "editor.wordHighlightStrongBackground": "#F1EFF7",
+    "editor.wordHighlightStrongBackground": "#484e5b",
     "editorGroup.background": "#181A1F",
     "editorGroup.border": "#181A1F",
     "editorGroupHeader.tabsBackground": "#292A44",
@@ -248,6 +248,13 @@
       }
     },
     {
+      "name": "operator quantifier regexp",
+      "scope": "keyword.operator.quantifier.regexp",
+      "settings": {
+        "foreground": "#7AA5FF"
+      }
+    },
+    {
       "name": "operator bitwise",
       "scope": "keyword.operator.bitwise",
       "settings": {
@@ -290,7 +297,7 @@
       "scope":
         "support.module.node,support.type.object.module,support.module.node",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#7AA5FF"
       }
     },
     {
@@ -925,14 +932,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#6DFEDF"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#AE81FF"
       }
     },
     {
