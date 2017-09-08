@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.4
+Fix issue in CSS/Less where curly braces were same color as variable
+
 ## 0.1.3
 Compatability update to editor foreground (brackets are brighter)
 

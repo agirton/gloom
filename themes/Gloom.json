@@ -514,7 +514,7 @@
     },
     {
       "name": "Variables",
-      "scope": "variable, meta.property-value.css",
+      "scope": "variable",
       "settings": {
         "foreground": "#FF6F9F"
       }
