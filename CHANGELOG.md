@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.3
+Compatability update to editor foreground (brackets are brighter)
+
 ## 0.1.2
 Compatability updates to regex and js
 
