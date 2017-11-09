@@ -68,7 +68,8 @@
   "tokenColors": [
     {
       "name": "punctuation.definition",
-      "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
+      "scope":
+        "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
         "foreground": "#6DFEDF"
       }
@@ -112,7 +113,8 @@
     },
     {
       "name": "diff",
-      "scope": "meta.diff.header.from-file,punctuation.definition.from-file.diff",
+      "scope":
+        "meta.diff.header.from-file,punctuation.definition.from-file.diff",
       "settings": {
         "foreground": "#569cd6"
       }
@@ -262,7 +264,8 @@
     },
     {
       "name": "support.constant.property-value.scss",
-      "scope": "support.constant.property-value.scss,support.constant.property-value.css",
+      "scope":
+        "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
         "foreground": "#66D9EF"
       }
@@ -276,7 +279,8 @@
     },
     {
       "name": "css property-name",
-      "scope": "support.type.vendored.property-name.css, support.type.property-name.css",
+      "scope":
+        "support.type.vendored.property-name.css, support.type.property-name.css",
       "settings": {
         "foreground": "#66D9EF"
       }
@@ -291,7 +295,8 @@
     },
     {
       "name": "js/ts module",
-      "scope": "support.module.node,support.type.object.module,support.module.node",
+      "scope":
+        "support.module.node,support.type.object.module,support.module.node",
       "settings": {
         "foreground": "#7AA5FF"
       }
@@ -322,7 +327,8 @@
     },
     {
       "name": "js variable process",
-      "scope": "support.variable.object.process, support.variable.property.process",
+      "scope":
+        "support.variable.object.process, support.variable.property.process",
       "settings": {
         "foreground": "#66D9EF"
       }
@@ -549,7 +555,8 @@
     },
     {
       "name": "Functions",
-      "scope": "entity.name.function, meta.require, support.function.any-method",
+      "scope":
+        "entity.name.function, meta.require, support.function.any-method",
       "settings": {
         "foreground": "#2DE0A7"
       }
@@ -577,7 +584,8 @@
     },
     {
       "name": "Class name",
-      "scope": "entity.name.class.identifier.namespace.type, entity.name.type.class",
+      "scope":
+        "entity.name.class.identifier.namespace.type, entity.name.type.class",
       "settings": {
         "foreground": "#678BDC"
       }
@@ -893,14 +901,16 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
-      "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
+      "scope":
+        "markup.underline.link.markdown,markup.underline.link.image.markdown",
       "settings": {
         "foreground": "#6DFEDF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
-      "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
+      "scope":
+        "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
         "foreground": "#AE81FF"
       }
@@ -981,7 +991,8 @@
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
-      "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
+      "scope":
+        "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
         "foreground": "#FF6F9F"
       }
@@ -1170,7 +1181,8 @@
     },
     {
       "name": "python function support",
-      "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
+      "scope":
+        "support.token.decorator.python,meta.function.decorator.identifier.python",
       "settings": {
         "foreground": "#2DE0A7"
       }
