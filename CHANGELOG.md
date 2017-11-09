@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.1.5
+Fix issue where JSX tag was wrong color
+
 ## 0.1.4
 Fix issue in CSS/Less where curly braces were same color as variable
 
