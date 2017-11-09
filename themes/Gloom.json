@@ -742,7 +742,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#FF6F9F"
+        "foreground": "#66D9EF"
       }
     },
     {
