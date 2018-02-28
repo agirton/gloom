@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.1.6
+### Fixed
+* Darken editor ruler, ([#1](https://github.com/agirton/gloom/pull/1)) (@tonyghita)
+* Change lineHighlightBackground ([#3](https://github.com/agirton/gloom/pull/3)) (@corygibbons)
+
 ## 0.1.5
 Fix issue where JSX tag was wrong color
 
