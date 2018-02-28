@@ -17,7 +17,7 @@
     "editorError.foreground": "#c24038",
     "editorMarkerNavigation.background": "#292A44",
     "editorRuler.foreground": "#333454",
-    "editor.lineHighlightBackground": "#383E4A",
+    "editor.lineHighlightBackground": "#333454",
     "editor.selectionBackground": "#4F528A",
     "editor.selectionHighlightBackground": "#484e5b",
     "editorCursor.foreground": "#94F2E7",
