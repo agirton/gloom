@@ -1028,14 +1028,14 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#FF6F9F"
+        "foreground": "#AE81FF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#FF6F9F"
+        "foreground": "#6D6DB5"
       }
     },
     {
