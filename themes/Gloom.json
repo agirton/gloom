@@ -1042,7 +1042,7 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#FF6F9F"
+        "foreground": "#ED4781"
       }
     },
     {
