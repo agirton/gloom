@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.8
+### Fixed
+* Match JSON colors to original theme ([#5](https://github.com/agirton/gloom/pull/5)) (@jorgegonzalez)
+
 ## 0.1.6
 ### Fixed
 * Darken editor ruler, ([#1](https://github.com/agirton/gloom/pull/1)) (@tonyghita)
