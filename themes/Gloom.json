@@ -23,7 +23,7 @@
     "editorCursor.foreground": "#94F2E7",
     "editor.editor.findMatchBackground": "#42557B",
     "editor.findMatchHighlightBackground": "#314365",
-    "editor.wordHighlightBackground": "#484e5b",
+    "editor.wordHighlightBackground": "#484e5b7b",
     "editor.wordHighlightStrongBackground": "#484e5b",
     "editorGroup.background": "#181A1F",
     "editorGroup.border": "#181A1F",
