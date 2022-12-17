@@ -1,4 +1,7 @@
 # CHANGELOG
+## 0.1.9
+### Fixed
+* Adjusted wordHighlightBackground to no longer obscure selection
 
 ## 0.1.8
 ### Fixed
